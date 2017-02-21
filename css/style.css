@@ -10,3 +10,19 @@ nav {
     box-sizing: border-box;
     margin-bottom: 23px;
 }
+/*主展示区*/
+#PIC_NAV {
+    float: left;
+}
+main img{
+    width: 200px;
+    height: 300px;
+}
+/*侧边导航*/
+aside{
+    float: right;
+}
+/*页脚*/
+footer{
+    float: bottom;
+}
